@@ -10,3 +10,4 @@ return addDoc(collectionReference, newOrder)
     .then((snapshot) => snapshot.id)
     .catch(error => console.warn(error))
 };
+// 

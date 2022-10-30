@@ -2,3 +2,9 @@
     color: red;
     cursor: pointer;
 }
+.card{ 
+    margin: 3px;
+}
+.card-img-top{
+    height: 150px;
+}
